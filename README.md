@@ -1,6 +1,6 @@
 # Online Booking, Laravel and FullCalendar.io
 
-This is an open-source web application designed to allow users to book an appointment. Users can open an account and create new booking appointments. The platform has role management with the following roles: client, employee and admin.
+This application users to book an appointment. Users can open an account and create new booking appointments. The platform has role management with the following roles: client, employee and admin.
 
       * Clients can create their account and make new appointments. 
       * Employees can see their clients, services and working hours. 
